@@ -9,4 +9,6 @@
 
 #include <iostream>
 
-int main(int argc, char **argv) { std::cout << "Hello World!!" << std::endl; }
+int main(int argc, char **argv) {
+  std::cout << "today is too hot!" << std::endl;
+}
